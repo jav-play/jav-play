@@ -1,7 +1,7 @@
 ### Hi there 👋 👋 👋 👋 👋
 
 <!--
-**javsubs91/javsubs91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jav-play/jav-play** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://komarev.com/ghpvc/?username=javs91&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=javplay&style=for-the-badge)
